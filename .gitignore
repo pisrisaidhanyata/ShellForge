@@ -1,0 +1,8 @@
+shellforge
+*.o
+*.out
+*.exe
+*.log
+.history
+.vscode/
+.idea/
